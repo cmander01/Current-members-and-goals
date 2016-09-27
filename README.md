@@ -8,7 +8,7 @@ Repo to use to display the orgs current projects, and goals for those projects. 
 - Sam Schwebach (on both temporarily)
 - Michael Ciancimino
 - Mackenzie Kilness
-
+- Brian Newberry
 
 # Magic Mirror project:
 (Add your name to this list if you are going to be part of the magic mirror project!)

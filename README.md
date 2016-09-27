@@ -6,6 +6,7 @@ Repo to use to display the orgs current projects, and goals for those projects. 
 - Cameron Hall
 - Tom Schutte
 - Sam Schwebach
+- Michael Ciancimino
 
 
 # Magic Mirror project:

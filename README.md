@@ -5,7 +5,7 @@ Repo to use to display the orgs current projects, and goals for those projects. 
 (Add your name to this list if you are going to be part of the drone project!)
 - Cameron Hall
 - Tom Schutte
-- Sam Schwebach
+- Sam Schwebach (on both temporarily)
 - Michael Ciancimino
 
 
@@ -13,6 +13,6 @@ Repo to use to display the orgs current projects, and goals for those projects. 
 (Add your name to this list if you are going to be part of the magic mirror project!)
 - Arel Otles
 - Tom Schutte
-- Sam Schwebach
+- Sam Schwebach (on both temporarily)
 - James Mai
 - Riley Morrison

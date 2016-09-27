@@ -14,3 +14,4 @@ Repo to use to display the orgs current projects, and goals for those projects. 
 - Arel Otles
 - Tom Schutte
 - Sam Schwebach
+- James Mai

@@ -17,3 +17,4 @@ Repo to use to display the orgs current projects, and goals for those projects. 
 - Sam Schwebach (on both temporarily)
 - James Mai
 - Riley Morrison
+- Justin Schrimmer

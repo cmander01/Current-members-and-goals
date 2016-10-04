@@ -19,3 +19,4 @@ Repo to use to display the orgs current projects, and goals for those projects. 
 - Riley Morrison
 - Vinay Janardhanam
 - Justin Schrimmer
+- Kyle Klassy
